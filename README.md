@@ -6,6 +6,8 @@
 </th></tr><tr><td>
       <!-- Your links here -->
       <a href="https://github.com/m-doescode/BD-TemptationBGone/raw/master/TemptationBGone.theme.css">Theme File Download</a>
+      <br/>
+      <a href="https://github.com/m-doescode/BD-TemptationBGone/raw/master/other/auto-updating_TemptationBGone.theme.css">Auto-Updating Theme Download</a>
 </td></tr></table>
 
 TemptationBGone gets rid of all the popups and notifications that keep nagging you to buy nitro.
