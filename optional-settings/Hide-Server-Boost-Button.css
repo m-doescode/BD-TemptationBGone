@@ -1,0 +1,5 @@
+/* > Server boost button */
+#guild-header-popout-premium-subscribe,
+#guild-header-popout > div > .separator-2I32lJ:nth-child(2) {
+	display: none !important;
+}
