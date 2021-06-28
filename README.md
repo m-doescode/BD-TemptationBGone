@@ -1,0 +1,2 @@
+# Nitro-TemptationBGone
+For BetterDiscord
