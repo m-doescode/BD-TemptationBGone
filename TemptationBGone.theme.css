@@ -6,6 +6,27 @@
 */
 
 
+
+/* [OPTIONAL] Hide server boost icons */
+
+/* Hide the server boost button */
+@import url(https://m-doescode.github.io/BD-TemptationBGone/optional-settings/Hide-Server-Boost-Button.css);
+
+/* Hide the server boost badge */
+/* @import url(https://m-doescode.github.io/BD-TemptationBGone/optional-settings/Hide-Server-Boost-Badge.css); */
+
+/* Hide boost buttons from boost menu */
+.perksModalContentWrapper-2HU6uL > div:nth-child(1) > div:nth-child(4) > .actions-2fUYl0,
+.perksModalContentWrapper-2HU6uL > div:nth-child(3),
+.perksModalContentWrapper-2HU6uL > div:nth-child(1) > div:nth-child(5) > div > div:nth-child(2) > div /**/ > div:nth-child(3) > button{
+	display: none !important;
+}
+
+/* Hailmary in case server boost prevention is bypassed */
+.planSelectStep-siOMix {
+	display: none !important;
+}
+
 /* Hide gift button */
 [aria-label="Send a gift"] {
 	display: none !important;
@@ -24,35 +45,21 @@
 }
 
 /* > Hide "Speak your mind..." text */
-[aria-label="Your message is too long..."] > div > div:nth-child(2) > div:nth-child(2) > p:nth-child(2) {
+[aria-label="Your message is too long..."] > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > p:nth-child(2) {
 	display: none !important;
 }
 
 /* > Hide "Up to 4000 characters!" image */
-[aria-label="Your message is too long..."] > div > div:nth-child(1) > img {
+[aria-label="Your message is too long..."] > div:nth-child(1) > div:nth-child(1) > img {
 	display: none !important;
 }
 
-[aria-label="Your message is too long..."] > div > div:nth-child(1) {
+[aria-label="Your message is too long..."] > div:nth-child(1) > div:nth-child(1) {
 	-webkit-box-shadow: none !important;
 	box-shadow: none !important;
 	height: 80px !important;
 }
 
-[aria-label="Your message is too long..."] > div > div:nth-child(3) > div:nth-child(1) > button:nth-child(2) {
-	display: none !important;
-}
-
-
-/* [OPTIONAL] Hide server boost icons */
-
-/* > Server boost button */
-#guild-header-popout-premium-subscribe,
-#guild-header-popout > div > .separator-2I32lJ:nth-child(2) {
-	display: none !important;
-}
-
-/* > Server boost badge */
-.guildIconContainer-2FW_iA {
+[aria-label="Your message is too long..."] > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > button:nth-child(2) {
 	display: none !important;
 }
