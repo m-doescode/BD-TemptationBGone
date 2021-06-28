@@ -1,4 +1,4 @@
-# Nitro-TemptationBGone
+# BD-TemptationBGone [BETA]
 (BetterDiscord only)
 
 <table align="right"><tr><th>
@@ -8,10 +8,14 @@
       <a href="https://github.com/m-doescode/BD-TemptationBGone/raw/master/TemptationBGone.theme.css">Theme File Download</a>
 </td></tr></table>
 
-Remove all the tempting nitro notifications etc.
+TemptationBGone gets rid of all the popups and notifications that keep nagging you to buy nitro.
 
+TBG is also configurable [see below](#configure)
 
-<img align="center" src="https://user-images.githubusercontent.com/80221594/123658187-c8df3300-d831-11eb-8136-03c22a7911e2.png" />
+Here is an example:
 
-(Insert more readme here)
+<img src="https://user-images.githubusercontent.com/80221594/123661743-16a96a80-d835-11eb-99b5-8c3feb1f0761.png" width="405" height="139" />
 
+## Configure
+
+(Under construction)
