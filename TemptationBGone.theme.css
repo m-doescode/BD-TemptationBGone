@@ -2,7 +2,7 @@
   * @name TemptationBGone
   * @author m-doescode
   * @description Gets rid of the annoying clutter of nitro and inaccessible features. Also gets rid of nitro tempt.
-  * @version 1.0
+  * @version 1.1
 */
 
 
@@ -66,5 +66,15 @@
 
 /* > Hide channel boost notice */
 .channelNotice-7cg_jN {
+	display: none !important;
+}
+
+/* > Hide nitro popup */
+.contentPremium-_Y0-cX {
+	display: none !important;
+}
+
+/* > Hide profile nitro ad */
+.premiumFeatureBorder-3vL7bn.tryItOutSection-W9qeGH {
 	display: none !important;
 }
